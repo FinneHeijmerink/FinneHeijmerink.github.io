@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 :root{
-	--main-background: #63808b;
-	--main-fonts-color: #fff;
-	--main-decor-color:#b66e3e;
-    --main-header-background:#63808b;
+	--main-background: #e8dab2;
+	--main-fonts-color: #d05525;
+	--main-decor-color:#e76937;
+    --main-header-background:#c17949;
 	--main-font-family: 'Poppins', sans-serif;
 }
 
@@ -88,7 +88,7 @@ a.nav-link{
 }
 
 #home .filter{
-	background: url('untitled.png') no-repeat;
+	background: url(' Art/filter.png') no-repeat;
 	background-size: cover;
 	background-position:center;
     position: absolute;
