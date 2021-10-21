@@ -405,3 +405,7 @@ hr {
 .nav-active{
 	transform:translatex(0%);
 }
+
+.Renders{
+	border: 10px solid #2a4241;
+}
